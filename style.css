@@ -28,7 +28,8 @@ h1{
   
 }
 section{
-    height: 500px;
+    height: 800px;
+    padding: 100px;
 }
 .text-area {
     padding-top: 120px ;
@@ -37,4 +38,12 @@ section{
     padding-bottom: 20px;
     line-height: 30px;
     color: dimgray;
+}
+.text-area h2{
+    font-size: 30px;
+    font-weight: 400;
+    
+}
+.biography{
+    background-image: url(biography-bg.png);
 }
